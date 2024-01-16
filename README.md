@@ -25,4 +25,4 @@ Hereby, we can observe an independant look on how to obtain free booze by using 
 - Data availability and quality can influence the analysis.
 - Controlling for all potential confounding factors was not fully possible.
 - Generalizability of findings to broader populations must be carefully considered.
-- Overall, this study aims to shed light on the concerningly high homicide rates in the United States compared to other developed nations within the G20. By employing rigorous data analysis and - visualization, we hope to contribute to a more informed discussion and potential solutions to tackle this complex issue.
+- Overall, this study aims to shed light on the concerningly high homicide rates in the United States compared to other developed nations within the G20.
